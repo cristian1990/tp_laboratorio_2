@@ -12,10 +12,6 @@ namespace Calculadora
 {
     public partial class Form1 : Form
     {
-        Numero numeroUno = new Numero();
-        Numero numeroDos = new Numero();
-        Numero resultado = new Numero();
-        string operador;
 
         public Form1()
         {
@@ -30,21 +26,17 @@ namespace Calculadora
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             txtResultado.Clear();
-        }
-
-        private void cmbOperacion_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
+            txtNumero1.Clear();
+            txtNumero2.Clear();
         }
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
-            resultado = new Numero(Calculadora.Operar(numeroUno, numeroDos, operador));
-            this.txtResultado.Text = (resultado.getNumero()).ToString();
-        }
+            Numero numero1 = new Numero(txtNumero1.Text);
+            Numero numero2 = new Numero(txtNumero2.Text);
+            double res = Calculadora.Operar(numero1, numero2, cmbOperacion.Text);
+            txtResultado.Text = res.ToString();
 
-        private void txtResultado_TextChanged(object sender, EventArgs e)
-        {
 
         }
     }
