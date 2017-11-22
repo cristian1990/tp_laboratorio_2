@@ -1,0 +1,5 @@
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ProyectoExcepciones\bin\Debug\ProyectoExcepciones.exe
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ProyectoExcepciones\bin\Debug\ProyectoExcepciones.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ProyectoExcepciones\obj\Debug\ProyectoExcepciones.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ProyectoExcepciones\obj\Debug\ProyectoExcepciones.exe
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ProyectoExcepciones\obj\Debug\ProyectoExcepciones.pdb

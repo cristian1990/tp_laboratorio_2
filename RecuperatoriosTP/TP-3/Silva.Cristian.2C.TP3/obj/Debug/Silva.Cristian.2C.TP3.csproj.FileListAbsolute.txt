@@ -1,0 +1,13 @@
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\bin\Debug\Silva.Cristian.2C.TP3.exe
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\bin\Debug\Silva.Cristian.2C.TP3.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\obj\Debug\Silva.Cristian.2C.TP3.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\obj\Debug\Silva.Cristian.2C.TP3.exe
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\obj\Debug\Silva.Cristian.2C.TP3.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\bin\Debug\Archivos.exe
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\bin\Debug\ClasesAbstractas.exe
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\bin\Debug\ClasesInstanciables.exe
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\bin\Debug\ProyectoExcepciones.exe
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\bin\Debug\Archivos.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\bin\Debug\ClasesAbstractas.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\bin\Debug\ClasesInstanciables.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\Silva.Cristian.2C.TP3\bin\Debug\ProyectoExcepciones.pdb

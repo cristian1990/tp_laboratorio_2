@@ -1,0 +1,33 @@
+JORNADA: 
+CLASE DE Programacion POR NOMBRE COMPLETO: Juarez,Roberto
+NACIONALIDAD : Argentino
+DNI : 32234456
+
+LEGAJO NUMERO: 2
+
+CLASE DEL DIA: 
+Programacion
+Programacion
+
+
+ALUMNOS: 
+NOMBRE COMPLETO: Lopez,Juan
+NACIONALIDAD : Argentino
+DNI : 12234456
+
+LEGAJO NUMERO: 1
+
+ESTADO DE CUENTA: Becado
+TOMA CLASES DE Programacion
+
+
+NOMBRE COMPLETO: Gonzalez,Carlos
+NACIONALIDAD : Argentino
+DNI : 12236456
+
+LEGAJO NUMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Programacion
+
+

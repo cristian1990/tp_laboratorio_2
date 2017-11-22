@@ -1,0 +1,7 @@
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.exe
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ClasesAbstractas\bin\Debug\ProyectoExcepciones.exe
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ClasesAbstractas\bin\Debug\ProyectoExcepciones.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.exe
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 3\Silva.Cristian.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
