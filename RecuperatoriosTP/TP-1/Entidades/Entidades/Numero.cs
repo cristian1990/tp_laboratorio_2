@@ -31,8 +31,8 @@ namespace Entidades
         /// <returns>Valor entero resultado de la conversión. EJ: 9</returns>
         public string BinarioDecimal(string binario)
         {
-            double a;
-            string numero;
+            double a = 0;
+            string numero = "";
             if (double.TryParse(binario, out a))
             {
                 numero = Convert.ToInt32(binario, 2).ToString();

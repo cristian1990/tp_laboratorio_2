@@ -1,0 +1,32 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Archivos.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\obj\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\obj\Debug\Archivos.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Excepciones.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-3\Archivos\bin\Debug\Excepciones.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\obj\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\obj\Debug\Archivos.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\bin\Debug\Archivos.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\TP 4\SILVA CRISTIAN\Archivos\bin\Debug\Archivos.dll
+C:\Users\cristian\Desktop\RECUPERATORIO TP\TP 4\SILVA CRISTIAN\Archivos\bin\Debug\Archivos.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\TP 4\SILVA CRISTIAN\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\RECUPERATORIO TP\TP 4\SILVA CRISTIAN\Archivos\obj\Debug\Archivos.dll
+C:\Users\cristian\Desktop\RECUPERATORIO TP\TP 4\SILVA CRISTIAN\Archivos\obj\Debug\Archivos.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\SILVA CRISTIAN\Archivos\bin\Debug\Archivos.dll
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\SILVA CRISTIAN\Archivos\bin\Debug\Archivos.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\SILVA CRISTIAN\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\SILVA CRISTIAN\Archivos\obj\Debug\Archivos.dll
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\SILVA CRISTIAN\Archivos\obj\Debug\Archivos.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 4\Archivos\bin\Debug\Archivos.dll
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 4\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 4\Archivos\obj\Debug\Archivos.dll
+C:\Users\cristian\Desktop\RECUPERATORIO TP\MIO\TP 4\Archivos\obj\Debug\Archivos.pdb
+C:\Users\cristian\Desktop\TP-4 (Corregido)\Archivos\bin\Debug\Archivos.dll
+C:\Users\cristian\Desktop\TP-4 (Corregido)\Archivos\bin\Debug\Archivos.pdb
+C:\Users\cristian\Desktop\TP-4 (Corregido)\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\TP-4 (Corregido)\Archivos\obj\Debug\Archivos.dll
+C:\Users\cristian\Desktop\TP-4 (Corregido)\Archivos\obj\Debug\Archivos.pdb
